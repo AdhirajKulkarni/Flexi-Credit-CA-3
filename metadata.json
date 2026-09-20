@@ -1,0 +1,6 @@
+{
+  "name": "Hospital Bed Availability Monitoring Agent",
+  "description": "Real-time hospital bed status monitoring and intelligent emergency triage agent for patients in need.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
